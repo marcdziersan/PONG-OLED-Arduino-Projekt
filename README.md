@@ -18,6 +18,8 @@ Auf dem OLED läuft ein klassisches Pong-Spiel mit
 - Hard-Reset-Kombination  
 - Demo-/Attract-Mode (CPU vs. CPU, wenn niemand spielt)
 
+<a href="upgrade_sound.md">Falls du auch Sound möchtest hier die Upgrade Beschreibung</a>
+
 Version im Sketch: `PONG OLED v1.0.0`
 
 ---
