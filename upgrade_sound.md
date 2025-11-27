@@ -4,6 +4,8 @@ _Buzzer-Erweiterung für dein bestehendes Projekt_
 Dieses Dokument beschreibt, wie du deinen bestehenden **PONG OLED** Sketch (ohne Sound) um einen **passiven Piezo-Buzzer** erweiterst.  
 Ziel: sauberes, nachvollziehbares Upgrade mit klarer Verkabelung und minimal-invasiven Code-Änderungen.
 
+<img src="Sound_Upgrade.png" alt="Sound Upgrade">
+
 ---
 
 ## 1. Hardware-Voraussetzungen
