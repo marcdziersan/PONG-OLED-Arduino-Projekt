@@ -1,5 +1,7 @@
 # PONG OLED – Arduino-Projekt
 
+<img src="Schaltung.png" alt="Arduino UNO Schaltung">
+
 Ein kleines, vollständiges Pong-Spiel für ein 0,96" SSD1306-OLED am Arduino UNO.  
 Das Projekt eignet sich ideal als Übungsprojekt für
 
